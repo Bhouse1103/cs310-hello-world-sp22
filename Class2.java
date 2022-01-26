@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Brooklyn House
  */
 
 public class Class2 {
